@@ -112,6 +112,30 @@ public class Main {
                 Ejercicio16 ejercicio16 = new Ejercicio16();
                 ejercicio16.run();
                 break;
+            case 17:
+                Ejercicio17 ejercicio17 = new Ejercicio17();
+                ejercicio17.run();
+                break;
+            case 18:
+                Ejercicio18 ejercicio18 = new Ejercicio18();
+                ejercicio18.run();
+                break;
+            case 19:
+                Ejercicio19 ejercicio19 = new Ejercicio19();
+                ejercicio19.run();
+                break;
+            case 20:
+                Ejercicio20 ejercicio20 = new Ejercicio20();
+                ejercicio20.run();
+                break;
+            case 21:
+                Ejercicio21 ejercicio21 = new Ejercicio21();
+                ejercicio21.run();
+                break;
+            case 22:
+                Ejercicio22 ejercicio22 = new Ejercicio22();
+                ejercicio22.run();
+                break;
 
             default:
                 System.out.println("Opción no válida");
