@@ -20,7 +20,7 @@ public class Main {
         System.out.println("6. Ejercicio 6");
         System.out.println("7. Ejercicio 7");
         System.out.println("8. Ejercicio 8");
-        System.out.println("9. Ejercicio 9");
+        System.out.println("9. Ejercicio  9");
         System.out.println("10. Ejercicio 10");
         System.out.println("11. Ejercicio 11");
         System.out.println("12. Ejercicio 12");
@@ -141,8 +141,5 @@ public class Main {
                 System.out.println("Opción no válida");
                 break;
         }
-
-
-
     }
 }
